@@ -178,3 +178,4 @@ cython_debug/
 ################
 .data
 *DS_Store*
+!dataset/
